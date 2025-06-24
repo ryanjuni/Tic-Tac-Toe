@@ -17,3 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 20a749b (jogo da velha em React (vite))
 >>>>>>> e538b4e (jogo da velha em React (vite))
+
+
+https://tic-tac-toe-taupe-three.vercel.app/ -- link do vercel
